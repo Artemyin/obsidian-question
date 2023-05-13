@@ -1,8 +1,6 @@
 # Why did you leave your last job?
-
 # Why do you want to leave your current job?
-
-Why did you leave your last job?
+# Why did you leave your last job?
 
 I left my last job to travel
 I left my last job for travel !Not correct

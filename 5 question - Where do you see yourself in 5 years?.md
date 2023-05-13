@@ -1,8 +1,6 @@
-Question 5: Where do you see
-yourself in 5 years?
+# Where do you see yourself in 5 years?
 
-The interviewer wants to know about your career
-goals/objectives and your level of motivation
+The interviewer wants to know about your career goals/objectives and your level of motivation
 
 Not **exactly** where you will be...
 

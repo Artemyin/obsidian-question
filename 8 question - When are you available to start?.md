@@ -1,4 +1,4 @@
-# Question 8: When are you available to start?
+# When are you available to start?
 
 # How soon are you available to start?
 

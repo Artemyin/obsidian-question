@@ -1,4 +1,4 @@
-# Question 9: How do you deal with pressure or stress?
+# How do you deal with pressure or stress?
 # How do you handle/manage pressure?
 
 

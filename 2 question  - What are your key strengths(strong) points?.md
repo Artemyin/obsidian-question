@@ -1,5 +1,4 @@
-# Question 2: 
-## What are your key strengths/strong points?
+# What are your key strengths/strong points?
 
 I’m good at
 

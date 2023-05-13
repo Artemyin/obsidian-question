@@ -1,7 +1,6 @@
-# Question 6
-Why do you want this job?
-Why are you interested in the company?
-Why are you interested in the job?
+# Why do you want this job?
+# Why are you interested in the company?
+# Why are you interested in the job?
 
 
 The interviewer wants to know:

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "42674798958624d3",
+        "id": "304d1031d551c2ce",
         "type": "tabs",
         "children": [
           {
-            "id": "139fb7d44c21d11c",
+            "id": "8459bf0f47d00abf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5110321044922
+    "width": 397.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "193212962b85ff3b",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -178,34 +188,34 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "20613b27bd6745d2",
+  "active": "8459bf0f47d00abf",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-09 23.44.51.excalidraw.md",
-    "obsidian-template/README.md",
-    "Home.md",
-    "Question 14.md",
-    "Question 15.md",
-    "Question 13.md",
-    "Question 12.md",
-    "Question 11.md",
-    "Question 10.md",
-    "Question 9.md",
-    "Question 8.md",
-    "Question 6.md",
-    "QUESTION 2.md",
-    "question 7.md",
-    "Question 5.md",
-    "Question 4.md",
-    "QUESTION 3.md",
-    "QUESTION 1.md",
-    "new finished book.md",
-    "How to reach maximum people.md",
-    "Untitled 2.md",
-    "Starting Your Vocabulary and Pronunciation List.md",
-    "Prepare for an Interview in Englsih.md",
-    "Strategies to Research Companies for your Field.md",
-    "Untitled 1.md",
+    "Combine Your Stories with Five Categories of Questions.md",
+    "STAR questions.md",
+    "Kinds of STAR Questions.md",
+    "How to Write STAR Answers.md",
+    "2 question  - What are your key strengths(strong) points?.md",
+    "Common questions.md",
+    "How to Answer Difficult Interview Questions.md",
+    "STAR questions category.md",
+    "How to Find Star Interview Stories.md",
+    "Teamwork.md",
+    "1 question - Tell me about yourself.md",
     "Untitled.md",
+    "15 question - What do you like to do in your free time?.md",
+    "14 question - Describe yourself in three-five words..md",
+    "13 question - What are your salary expectations?.md",
+    "12 question - Do you have any questions?.md",
+    "Home.md",
+    "11 question - What do you know about our company?.md",
+    "10 question - How did you hear about the position?.md",
+    "9 question - How do you deal with pressure or stress?.md",
+    "8 question - When are you available to start?.md",
+    "7 question - Why did you leave your last job?.md",
+    "6 question - Why do you want this job?.md",
+    "5 question - Where do you see yourself in 5 years?.md",
+    "4 question - What are your weaknesses or weak points?.md",
+    "3 question - Why should we hire you?.md",
     "obsidian-template/stats.png",
     "Untitled.canvas",
     "Excalidraw",
