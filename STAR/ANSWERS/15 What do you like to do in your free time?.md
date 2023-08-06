@@ -1,0 +1,2 @@
+My personal interests include space exploration, new technical developments, programming, and crypto technologies. 
+I also enjoy spending time with friends, hiking in the mountains, and reading books, including popular science, science fiction, and classical literature. Additionally, I have a passion for arts and enjoy origami and drawing.

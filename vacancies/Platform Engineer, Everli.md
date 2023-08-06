@@ -1,0 +1,9 @@
+-   Love for infrastructure: you are proud of your work
+-   Knowledge of technologies in our stack: **AWS Suite, GCP, Redis, RabbitMQ, MySQL, ElasticSearch, Jenkins, GitHub Actions**
+-   Experience with any programming languages like Python, JavaScript, PHP
+-   Experience in designing, building and shipping infrastructure for traffic-intensive applications
+-   Experience with virtualization and container technologies in large and distributed production systems
+-   Great communication and synthesis skills
+-   Analytical, detail-focused mindset, but always looking at the big picture
+-   Team player: you work well with other people within and outside the tech team
+-   Positive & chill vibes. Meme skills is a nice to have

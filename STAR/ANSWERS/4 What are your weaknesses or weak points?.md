@@ -1,0 +1,6 @@
+
+**Frustration with big amount of new information** : When a task involves a lot unfamiliar information, tools and processes,  I sometimes get overwhelmed and frustrated. However, I try to overcome this by reading the task multiple times, making a list of unclear items, break the task down into smaller pieces and work from the general to the specific and consulting experienced colleagues for additional information and standards.
+
+==I feel that my weakness is== ** get boring for big amount monotonous work**: While I do not compromise on the quality of my work, I can sometimes become lazy when it comes to repetitive tasks. ==But I am working on this== try to think of new methods that can speed up the completion of these tasks and automate some activities.
+
+==I have to admit that I== **Need for improvement in English language skills**: As a non-native English speaker, I recognize the need to improve my language skills. To achieve this, I consume news and entertainment media in English, take online courses, and attend speaking clubs.

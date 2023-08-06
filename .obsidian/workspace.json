@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "304d1031d551c2ce",
+        "id": "ed82aac110ead150",
         "type": "tabs",
         "children": [
           {
-            "id": "8459bf0f47d00abf",
+            "id": "1b5c931c2ab6ec76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,7 @@
                 "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5110321044922,
-    "collapsed": true
+    "width": 355.5110321044922
   },
   "right": {
     "id": "193212962b85ff3b",
@@ -163,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,41 +183,56 @@
       "homepage:Open homepage": false,
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8459bf0f47d00abf",
+  "active": "1b5c931c2ab6ec76",
   "lastOpenFiles": [
-    "Combine Your Stories with Five Categories of Questions.md",
-    "STAR questions.md",
-    "Kinds of STAR Questions.md",
-    "How to Write STAR Answers.md",
-    "2 question  - What are your key strengths(strong) points?.md",
-    "Common questions.md",
-    "How to Answer Difficult Interview Questions.md",
-    "STAR questions category.md",
-    "How to Find Star Interview Stories.md",
-    "Teamwork.md",
-    "1 question - Tell me about yourself.md",
-    "Untitled.md",
-    "15 question - What do you like to do in your free time?.md",
-    "14 question - Describe yourself in three-five words..md",
-    "13 question - What are your salary expectations?.md",
-    "12 question - Do you have any questions?.md",
     "Home.md",
-    "11 question - What do you know about our company?.md",
-    "10 question - How did you hear about the position?.md",
-    "9 question - How do you deal with pressure or stress?.md",
-    "8 question - When are you available to start?.md",
-    "7 question - Why did you leave your last job?.md",
-    "6 question - Why do you want this job?.md",
-    "5 question - Where do you see yourself in 5 years?.md",
-    "4 question - What are your weaknesses or weak points?.md",
-    "3 question - Why should we hire you?.md",
-    "obsidian-template/stats.png",
+    "Untitled 1.md",
+    "STAR/4 question - What are your weaknesses or weak points?.md",
+    "STAR/Kinds of STAR Questions.md",
+    "STAR/r. 787 PSU SUPPLY DUCT.md",
+    "STAR/How to Answer Difficult Interview Questions.md",
+    "STAR/ANSWERS/9 How do you deal with pressure or stress?.md",
+    "STAR/9 question - How do you deal with pressure or stress?.md",
+    "materials from drive. star preparations..md",
+    "materials from drive. common and star questions preparations.md",
+    "materials from drive. star questions for engineering work.md",
+    "materials from drive. questions for engineer.md",
+    "STAR/11 question - What do you know about our company?.md",
+    "11 ! What do you know about our company?.md",
+    "10 ! How did you hear about the position?.md",
+    "STAR/10 question - How did you hear about the position?.md",
+    "7 ! Why did you leave your last job?.md",
+    "STAR/7 question - Why did you leave your last job?.md",
+    "8 !  When are you available to start?.md",
+    "STAR/8 question - When are you available to start?.md",
+    "STAR/ANSWERS/6 ! Why do you want this job?.md",
+    "STAR/ANSWERS/3 ! Why should we hire you?.md",
+    "STAR/3 question - Why should we hire you?.md",
+    "ALTEN.md",
+    "STAR/6 question - Why do you want this job?.md",
+    "list of aerospace companies.md",
+    "files/Pasted image 20230615000355.png",
+    "files/Pasted image 20230615000037.png",
+    "files/Pasted image 20230614235450.png",
+    "files/Pasted image 20230614235435.png",
+    "files/Pasted image 20230610161739.png",
+    "files",
+    "google",
+    "files/Pasted image 20230610160905.png",
+    "files/Pasted image 20230610134822.png",
+    "files/Pasted image 20230610134812.png",
+    "files/Pasted Image 20230522215027_543.png",
+    "files/Pasted Image 20230522215647_590.png",
+    "STAR/ANSWERS",
+    "STAR/united",
+    "vacancies",
+    "STAR",
+    "obsidian-template/Untitled",
     "Untitled.canvas",
-    "Excalidraw",
-    "obsidian-template/screenshots/screenshot-2.png",
-    "obsidian-template/screenshots/screenshot-1.png"
+    "Excalidraw"
   ]
 }

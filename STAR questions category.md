@@ -1,5 +1,0 @@
-- Teamwork
-- Problem Solving/Planning
-- Initiative/Leadership
-- Interpersonal Skills/Conflict
-- Pressure/Stress
