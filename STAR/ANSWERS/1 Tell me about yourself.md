@@ -4,4 +4,4 @@ l am looking for a job **at the moment**, I would describe myself as well motiv
 
 and **now I’m looking for a job as an** engineer **to work in my area**.
 
-and now Im looking for new opportunities in internet technology field
+and n**now I’m looking for a job as a** (Developer/DevOps) **to work in internet technology area**.
